@@ -5,7 +5,7 @@
 	@include("page.pageTitle")
 </head>
 <body>
-	<h1>haime 1test</h1>
+	<h1>haime 1test123</h1>
 	<?php 
 		//include("pageHeader.php");
 	?>
